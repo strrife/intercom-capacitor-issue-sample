@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.app",
+  "appName": "intercom433433333",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
