@@ -5,6 +5,12 @@
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 0
+    },
+    "Intercom": {
+      "iosApiKey": "ios_sdk-xxx",
+      "iosAppId": "xxx",
+      "androidApiKey": "",
+      "androidAppId": ""
     }
   }
 }

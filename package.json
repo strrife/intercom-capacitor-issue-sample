@@ -13,8 +13,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@capacitor/core": "latest",
+    "@capacitor-community/intercom": "^6.0.2",
     "@capacitor/camera": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/ios": "^6.1.2",
     "@capacitor/splash-screen": "latest"
   },
   "devDependencies": {
